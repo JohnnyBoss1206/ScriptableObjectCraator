@@ -1,0 +1,5 @@
+# ScriptableObjectCraator
+ScriptableObjectを継承したクラスを用意したけど毎回.assetファイルを生成するのがめんどくさい！
+
+そんな時に便利なEditor拡張を作成しました
+EditorWindowを開いたらAsset/Resources/以下のパスでScriptableObjectを継承したクラスのObjectが生成されます
